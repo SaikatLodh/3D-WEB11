@@ -81,7 +81,7 @@ img {
     }
 
     .page6 {
-        height: 110vh;
+        height: auto;
     }
 }
 
@@ -100,7 +100,7 @@ img {
 
 
     .page6 {
-        height: 110vh
+        height: auto;
     }
 }
 
@@ -152,7 +152,7 @@ img {
     }
 
     .page6 {
-        height: 120vh;
+        height: auto;
     }
 
     .footer {
@@ -228,7 +228,7 @@ img {
     }
 
     .page6 {
-        height: 60vh;
+        height: auto;
     }
 
     .eliments h6 {
@@ -286,7 +286,7 @@ img {
     }
 
     .page6 {
-        height: 80vh;
+        height: auto;
     }
 
 
@@ -319,7 +319,7 @@ img {
     }
 
     .page6 {
-        height: 65vh;
+        height: auto;
         padding: 20px;
     }
 }
@@ -371,7 +371,7 @@ img {
     }
 
     .page6 {
-        height: 100vh;
+        height: auto;
     }
 
     #position svg {
@@ -406,7 +406,7 @@ img {
     }
 
     .page6 {
-        min-height: 140vh;
+        height: auto;
     }
 
     .show-fide-right h4 {
@@ -510,7 +510,7 @@ img {
     }
 
     .page6 {
-        min-height: 110vh;
+        height: auto;
     }
 
     .page1-video {
@@ -564,7 +564,7 @@ img {
     }
 
     .page6 {
-        min-height: 108vh;
+       height: auto;
     }
 
 
@@ -572,7 +572,7 @@ img {
 
 @media only screen and (max-width: 412px) {
     .page6 {
-        min-height: 100vh;
+      height: auto;
     }
 }
 
@@ -651,7 +651,7 @@ img {
     }
 
     .page6 {
-        min-height: 85vh;
+      height: auto;
     }
 
 }
@@ -682,7 +682,7 @@ img {
     }
 
     .page6 {
-        min-height: 120vh;
+       height: auto;
     }
 
     svg svg {
@@ -710,7 +710,7 @@ img {
     }
 
     .page6 {
-        min-height: 105vh;
+        height: auto;
     }
 }
 
@@ -732,7 +732,7 @@ img {
 
 
     .page6 {
-        min-height: 100vh;
+      height: auto;
     }
 
     .page3 {
